@@ -1,6 +1,6 @@
-In connection.php müssen Sie noch Ihre Datenbank eingeben
+In connection.php mÃ¼ssen Sie noch Ihre Datenbank hinterlegen
 
-In der Datenbank erstellt ihr *users* mit 5 Spalten
+In der Datenbank erstellt ihr dann noch *users* mit 5 Spalten
 Darin erstellt ihr ein:
 
 Name		Typ		Wert	Standart	Kollation	Index	A-I

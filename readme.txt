@@ -10,3 +10,5 @@ user_id		BIGINT		20
 user_name	VARCHAR		100			utf8_unicode_ci
 password	VARCHAR		100			utf8_unicode_ci
 date		TIMESTAMP		CURRENT_TIME
+
+oder ihr ladet die users.sql einfach in eure Datenbank hoch
